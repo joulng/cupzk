@@ -1,5 +1,8 @@
 HDSD gấc đơn giản bé iu của mình
-1. Down tất cả các file này về và giải nén
+1. Down tất cả các file này bằng cách:
+- Trong mục Code màu xanh lá, chọn mũi tên
+- Chọn Download ZIP
+2. Giải nén
 2. Double click file "index" là xong
 
 P/S: 
