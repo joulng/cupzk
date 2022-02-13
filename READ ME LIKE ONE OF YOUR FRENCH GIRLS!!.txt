@@ -1,5 +1,6 @@
 HDSD gấc đơn giản bé iu của mình
-1. Double click file "index" là xong =)))
+1. Down tất cả các file này về và giải nén
+2. Double click file "index" là xong
 
 P/S: 
 - Đừng bấm những cái khác, kể cả thư mục ingre 
